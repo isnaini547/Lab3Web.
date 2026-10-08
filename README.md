@@ -18,11 +18,11 @@ Selector nav, nav a, dan :hover digunakan untuk mengatur tampilan navigasi dan t
 ## 5. ID Selector dan Class Selector
 ID selector menggunakan #, sedangkan class selector menggunakan tanda titik (.).
 **Screenshot:**
-![ID selector dan class selector](ss/gambar5..png)
+![ID selector dan class selector](ss/gambar6..png)
 ## 6. CSS Eksternal
 Tag <link> digunakan untuk menghubungkan file HTML dengan style_eksternal.css.
 **Screenshot**
-![css eksternal](ss/gambar6..png)
+![css eksternal](ss/gambar5..png)
 ## 7 Hasil Praktikum
 ### Hasil Praktikum
 Hasil praktikum menunjukkan bahwa penerapan Internal CSS dan Inline CSS berhasil mengubah tampilan halaman web. Halaman menampilkan judul, menu navigasi berwarna hijau, area konten berwarna biru, dan tombol informasi berwarna merah. Dengan penerapan CSS, tampilan halaman web menjadi lebih menarik, terstruktur, dan mudah dibaca.
