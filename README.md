@@ -20,7 +20,7 @@ ID selector menggunakan #, sedangkan class selector menggunakan tanda titik (.).
 **Screenshot:**
 ![ID selector dan class selector](ss/gambar6..png)
 ## 6. CSS Eksternal
-Tag <link> digunakan untuk menghubungkan file HTML dengan style_eksternal.css.
+ style_eksternal.css.
 **Screenshot**
 ![css eksternal](ss/gambar5..png)
 ## 7 Hasil Praktikum
